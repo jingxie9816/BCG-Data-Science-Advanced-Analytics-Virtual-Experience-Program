@@ -1,4 +1,4 @@
-# BCG-Data-Science-Advanced-Analytics-Virtual-Experience-Program
+# BCG Data Science Advanced Analytics Virtual Experience Program
 
 This is a virtual experience program, not a real internship, but I act as a data scientist in BCG GAMMA team to solve business problems for one of their clients.
 The link to my digital [badge](https://www.theforage.com/badges/NorEhdj87k7nLnwK2/u9ok5BmjGqPyinrE2/Badge%20of%20completion%20for%20the%20Open-Access%20Data%20Science%20&%20Advanced%20Analytics%20Virtual%20Experience%20Program/Jing?ref=NorEhdj87k7nLnwK2).
