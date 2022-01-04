@@ -12,6 +12,6 @@ The problem background is that
 
 3. Feature engineering: using business context and expertise to create new data that may provide useful signals in the prediction of outcomes
 
-4. Modeling and evaluation: Using your engineered dataset to model an outcome and to generate predictions. Then,. testing these predictions against the ground truth to see whether they are reliable.
+4. Modeling and evaluation: Using engineered dataset to model an outcome and to generate predictions. Then, testing these predictions against the ground truth to see whether they are reliable
 
 5. Insights & recommendation: turning the insights of this analysis into business decisions and recommendations
