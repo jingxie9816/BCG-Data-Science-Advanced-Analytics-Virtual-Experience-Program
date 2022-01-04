@@ -2,7 +2,16 @@
 
 This is a virtual experience program, not a real internship, but I act as a data scientist in BCG GAMMA team to solve business problem for one of their clients.
 
-The problem background is that
+### The program background is:
+
+Client is a major gas and electricity utility, supplies to corporate, SME(Small & Medium Enterprise) and residential customers.
+It faces significant churn problem and most significant in SME segment.
+
+Client's hypothesis: churn is mainly driven by customer price sensitivity.
+If it is possible to predict customers likely to churn using a predictive model, client wants to try discounting strategy that offering customers at high propensity to churn a 20% discount.
+
+### My task:
+To test whether the hypothesis churn is mainly driven by customer price sensitivity.
 
 ### When tackling the business problem, I followed the typical 5 steps as below:
 
