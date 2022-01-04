@@ -12,7 +12,7 @@ Client's hypothesis: churn is mainly driven by customer price sensitivity.
 If it is possible to predict customers likely to churn using a predictive model, client wants to try discounting strategy that offering customers at high propensity to churn a 20% discount.
 
 ### My task:
-To test whether the hypothesis churn is mainly driven by customer price sensitivity.
+To test the hypothesis: churn is mainly driven by customer price sensitivity.
 
 ### When tackling the business problem, I followed the typical 5 steps as below:
 
