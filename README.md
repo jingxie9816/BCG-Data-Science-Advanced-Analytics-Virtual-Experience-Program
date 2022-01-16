@@ -19,3 +19,5 @@ To test the hypothesis: churn is mainly driven by customer price sensitivity.
 3. Feature engineering: using business context and expertise to create new data that may provide useful signals in the prediction of outcomes
 4. Modeling and evaluation: Using engineered dataset to model an outcome and to generate predictions. Then, testing these predictions against the ground truth to see whether they are reliable
 5. Insights & recommendation: turning the insights of this analysis into business decisions and recommendations
+
+You can refer to my solutions in Python for [Exploratory Data Analysis](https://github.com/jingxie9816/BCG_Data_Science_Advanced_Analytics_Virtual_Experience_Program/blob/main/Exploratory%20Data%20Analysis.ipynb) and [Feature Engineering & Modelling](https://github.com/jingxie9816/BCG_Data_Science_Advanced_Analytics_Virtual_Experience_Program/blob/main/Feature%20Engineering%20%26%20Modelling.ipynb), hope it helps!
