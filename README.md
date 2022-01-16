@@ -5,6 +5,7 @@ The link to my digital [badge](https://www.theforage.com/badges/NorEhdj87k7nLnwK
 ### The program background is:
 Client is a major gas and electricity utility, supplies to corporate, SME(Small & Medium Enterprise) and residential customers.
 It faces significant churn problem and most significantly in SME segment.
+
 Client's hypothesis: churn is mainly driven by customer price sensitivity.
 If it is possible to predict customers likely to churn using a predictive model, client wants to try discounting strategy that offering customers at high propensity to churn a 20% discount.
 
